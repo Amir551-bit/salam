@@ -9,3 +9,7 @@ print(20 * '*')
 
 mapping = list(map(lambda a : a ** 2, list1))
 print(mapping)
+
+print(20 * '*')
+
+print('hello')
