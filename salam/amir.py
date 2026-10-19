@@ -13,3 +13,11 @@ print(mapping)
 print(20 * '*')
 
 print('hello')
+
+a = int(input("Enter Number:"))
+def kir(w : int) -> int:
+    return w * 4
+
+
+print(kir(a))
+
